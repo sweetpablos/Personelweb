@@ -1,0 +1,126 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    font-size: 5rem;
+    
+}
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    padding-bottom: 20px; 
+}
+h3{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+      
+}
+p{
+    line-height: 2;
+}
+hr{
+    border: dotted #00ADB5 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    margin: 20px 40px;
+}
+a:hover{
+    color: #EAF6F6;
+}
+.copyright{
+    color: white;
+    padding: 20px 0;
+    font-size: 1.00rem;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.personel{
+    margin: 100px 0;
+}
+.header{
+    background-color: #CBF1F5;
+    margin: 0;
+    position: relative;
+    
+    padding-top: 100px;
+
+}
+.upcloud{
+    position: absolute;
+    top: 50px;
+    right: 30px;
+
+}
+.downcloud{
+    position: absolute;
+    left: 40px;
+}
+.mountain{
+    margin: 100px auto 0 auto;
+}
+.pic{
+    border-radius: 100%;
+    
+}
+.prog{
+    float: left;
+    margin-right: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.gym{
+    float: right;
+}
+.btn {
+    background: #3439d9;
+    background-image: -webkit-linear-gradient(top, #3439d9, #64aedb);
+    background-image: -moz-linear-gradient(top, #3439d9, #64aedb);
+    background-image: -ms-linear-gradient(top, #3439d9, #64aedb);
+    background-image: -o-linear-gradient(top, #3439d9, #64aedb);
+    background-image: linear-gradient(to bottom, #3439d9, #64aedb);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+}
+
+.btn:hover {
+    background: #9f22e3;
+    text-decoration: none;
+}
+
+
+.contact{
+    margin: 40px auto;
+}
+.bottom-container{
+    margin: 40px auto;
+    background-color: #66BFBF;
+    padding: 40px;
+    margin-bottom: 0;
+}
